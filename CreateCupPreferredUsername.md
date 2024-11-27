@@ -17,17 +17,12 @@ User Pool settings for the below examples are all the same and set the following
 - The user pool will handle auto verification of the email attribute
 
 ### Examples
-[CLI](#cli)
-
-[CloudFormation (YAML)](#cloudformation-yaml)
-
-[CloudFormation (JSON)](#cloudformation-json)
-
-[JavaScript](#aws-sdk-for-javascript-v3)
-
-[Python](#aws-sdk-for-python-boto3)
-
-[Java](#aws-sdk-for-java-v2)
+- [CLI](#cli)
+- [CloudFormation (YAML)](#cloudformation-yaml)
+- [CloudFormation (JSON)](#cloudformation-json)
+- [JavaScript](#aws-sdk-for-javascript-v3)
+- [Python](#aws-sdk-for-python-boto3)
+- [Java](#aws-sdk-for-java-v2)
 
 > [!CAUTION]
 > The below examples are for informational purposes only and you are responsible for making your own independent assessment of the information shared here. This is provided “as is” without warranties, representations, or conditions of any kind, whether expressed or implied.
